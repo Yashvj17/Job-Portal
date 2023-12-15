@@ -1,2 +1,1 @@
-# Job-Portal
-Job portal usually list the jobs that can be posted by admin  / recruiter and the job listings can be visible only to public.
+We have created a prototype of job portal in FLASK that allows users to login, post jobs, view job details, update jobs, and view all available jobs. Users can login as either an employer, candidate, or admin. Employers can post jobs and update existing jobs. Candidates can view all available jobs and apply for them. Admins can manage all aspects of the application.
